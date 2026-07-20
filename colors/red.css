@@ -1,0 +1,35 @@
+body{
+    color:rgb(74, 0, 0)
+}
+body {
+         font-weight: bold;
+}
+
+{
+font-family: "Helvetica Neue", Arial, sans-serif;
+}
+  
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/02/44/13/49/360_F_244134943_ftJw0AR5dQWUjkcwqG92zv1xyJAM5Irb.jpg)
+    }
+
+img{
+    box-shadow: 10px 10px 5px rgb(115, 119, 119);
+}
+
+
+p{
+    background-color: rgb(221, 50, 50);
+
+}
+
+h1{
+    background-color: rgb(221, 50, 50);
+    }
+img{
+       box-shadow: 10px 10px 5px rgb(116, 126, 126);
+}
+
+ol,h2{
+    background-color:white
+}
